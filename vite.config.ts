@@ -17,7 +17,7 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
-  base: "/Trust-Engineering",
+  base: "/Trust-engineering",
   plugins: [
     figmaAssetResolver(),
     // The React and Tailwind plugins are both required for Make, even if
